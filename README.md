@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React
+
+Projeto em JavaScript do curso <a href="https://app.pluralsight.com/library/courses/react-practical-start/table-of-contents">A Practical Start with React 17</a> da Pluralsight.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
